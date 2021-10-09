@@ -1,5 +1,13 @@
 {
-  "projectId": "1dx4tt",
   "baseUrl": "https://www.hajper.com/",
-  "mobileDevice": "iphone-8"
+  "mobileDevice": "iphone-8",
+  "reporter": "cypress-mochawesome-reporter",
+  "reporterOptions": {
+    "reportDir": "cypress/reports",
+    "charts": true,
+    "reportPageTitle": "My Test Suite",
+    "embeddedScreenshots": true,
+    "inlineAssets": true
+  },
+  "video": true
 }
