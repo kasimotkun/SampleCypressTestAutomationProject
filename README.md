@@ -1,6 +1,6 @@
 # SampleCypressTestAutomationProject
 
-## PreRequisite 
+## Prerequisite 
 
 Please follow the instructions in the <a href='https://docs.cypress.io/guides/getting-started/installing-cypress'>cypress installation page</a> by installing nodeJs and Cypress.
 
